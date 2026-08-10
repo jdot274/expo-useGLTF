@@ -11,11 +11,11 @@
   "dependencies": {
     "@react-three/drei": "^9.56.28",
     "@react-three/fiber": "^8.11.5",
-    "expo": "~48.0.4",
+    "expo": "~57.0.11",
     "expo-gl": "~12.4.0",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.3",
+    "react-native": "0.86.2",
     "react-promise-suspense": "^0.3.4",
     "three": "^0.150.1",
     "expo-asset": "~8.9.0"
